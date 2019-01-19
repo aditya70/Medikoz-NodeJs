@@ -1,0 +1,25 @@
+{
+  "name": "medikoz-api",
+  "version": "1.0.0",
+  "description": "medikoz api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://isfahad@bitbucket.org/justorthodev/medikoz-backend-api.git"
+  },
+  "keywords": [
+    "medikoz",
+    "api",
+    "backend"
+  ],
+  "author": "shezartech",
+  "license": "UNLICENSED",
+  "homepage": "https://bitbucket.org/justorthodev/medikoz-backend-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
